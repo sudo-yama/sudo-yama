@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="[your-instagram-URL](https://www.instagram.com/tmcmxcvii/)">
+<a href="https://www.instagram.com/tmcmxcvii/">
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
